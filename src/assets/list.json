@@ -1,0 +1,176 @@
+{
+    "list": [{
+        "id": 6,
+        "videoName": "这才是真正有品味的男人",
+        "videoImageUrl": "http://img.kaiyanapp.com/a12ffe0b475aa1c8500854bd9154c3b9.jpeg?imageMogr2/quality/60/format/jpg",
+        "videoUrl": "//vdse.bdstatic.com/375068a2be07aa472625cdec683fb5fc.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F23b85c7426e7ef029dcc31add017ff5fa4bac3e4487290d53b9a008ddc2a8ddb",
+        "videoType": "2",
+        "videoPlayTime": "55:12",
+        "videoIntroduction": "谁说旅行纪念品都只能是看得见摸得着的实物，它也可能是一个萦绕在脑海中久久不散的独特气味，一首车上听来旋律动听却因语言障碍无法得知名字的歌，一段前所未有的尝鲜经历……在中华航空的这支广告中，每个场景画面只有短短几秒，却能让人脑补出无数奇遇。BGM：「Something's Coming Over Me」。",
+        "createDate": "2019-06-22 20:56:00"
+    },{
+        "id": 7,
+        "videoName": "真正活过的人生，就要勇敢跳出舒适圈",
+        "videoImageUrl": "http://vdposter.bdstatic.com/5e366b533b35f4fad18eea0f946edc1a.jpeg",
+        "videoUrl": "https://baobab.kaiyanapp.com/api/v1/playUrl?vid=151560&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&ptl=true",
+        "videoType": "2",
+        "videoPlayTime": "5:45",
+        "videoIntroduction": "短片原名：「A way of Being」，讲述一个羊毛木偶想要离开舒适的木凳，却发现这是件很难的事。就像每个人都有自己的舒适圈，尝试一步步走出去，才能看到更精彩的风景。From Kobi Vogman ",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/48f0c15a1d319ecb64ca039c4b2acd6e.jpeg?imageMogr2/quality/60/format/jpg"
+    },
+    {
+        "id": 8,
+        "videoName": "极致创意！当全世界都在倒退，只有我在前进",
+        "videoImageUrl": "http://img.kaiyanapp.com/116fea3c93a24a68ec4073fa80ded701.jpeg?imageMogr2/quality/60/format/jpg",
+        "videoUrl": "https://baobab.kaiyanapp.com/api/v1/playUrl?vid=33389&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&ptl=true",
+        "videoType": "2",
+        "videoPlayTime": "02' 55",
+        "videoIntroduction": "鱼眼+长镜头+倒行+倒放，再加上绝佳的创意与动作设计，英国鬼才 Messe Kopp 设计出来这样一部让人目瞪口呆的作品「Forward 倒放」。From Messe Kopp",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/baedaf59b89cd41f8148e04fc22a820d.jpeg?imageMogr2/quality/60/format/jpg"
+    },
+    {
+        "id": 9,
+        "videoName": "笑出腹肌！沙雕疯狂动物城，脑洞秀出天际",
+        "videoImageUrl": "http://img.kaiyanapp.com/4ad61e9f6591b8e0e948ec1efcb72264.jpeg?imageMogr2/quality/60/format/jpg",
+        "videoUrl": "https://baobab.kaiyanapp.com/api/v1/playUrl?vid=165265&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&ptl=true",
+        "videoType": "2",
+        "videoPlayTime": "04' 45",
+        "videoIntroduction": "不管是水里游的、地上跑的，还是天上飞的，短片中的动物都生活在一个自带五毛钱特效的疯狂动物城。螃蟹变身双枪大佬、毛毛虫变成彩虹创造体、主人在狗狗鼻子上跳舞。简直比电影「疯狂动物城」还极致～From Animalistic",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/ce862522f4f3bf4a2f89a8403201f05c.jpeg?imageMogr2/quality/60/format/jpg"
+    },
+    {
+        "id": 10,
+        "videoName": "500千伏的起点",
+        "videoImageUrl": "https://i1.ergengtech.com/business/project/2019/05/05/240b7fd20e82f5524d099becf36e6e60.png",
+        "videoUrl": "https://v1.ergengtech.com/transcode/57dc13c9a6bdf078c4ed6c52572c941d/6b92590319df472916a664c26ac5e6b1.mp4",
+        "videoType": "2",
+        "videoPlayTime": "04' 45",
+        "videoIntroduction": "作为一个电网的工作人员，他把每一次出差都当成是战役，当不工作的时候站在窗前，看着万家灯火通明，那种骄傲感油然而生",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/ce862522f4f3bf4a2f89a8403201f05c.jpeg?imageMogr2/quality/60/format/jpg"
+    },
+    {
+        "id": 11,
+        "videoName": "人生马拉松看不到尽头，停下脚步便是终点",
+        "videoImageUrl": "https://i1.ergengtech.com/cb/2019/06/27/f5a89b377d861387d36eaf57f8e5313d.jpg_vcover",
+        "videoUrl": "https://v1.ergengtech.com/transcode/e26d0c089565906e4ab0bdc7353fb578/402196e69fb82a716afe99db2f28ad22.mp4",
+        "videoType": "2",
+        "videoPlayTime": "05' 07",
+        "videoIntroduction": "他从一个三高患者、跑马小白，蜕变成苏州跑界的达人，人生目标是跑完100场全程马拉松，同时把全民健身的理念带到每个社区，让这一条条赛道的人们快乐运动。",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/ce862522f4f3bf4a2f89a8403201f05c.jpeg?imageMogr2/quality/60/format/jpg"
+    },
+    {
+        "id": 12,
+        "videoName": "一只狗的等待",
+        "videoImageUrl": "https://i1.ergengtech.com/business/project/2019/06/26/22f834fcebc49a0cb9ad107ea7813a42.jpg_vcover",
+        "videoUrl": "https://v1.ergengtech.com/transcode/c5b289c326b0db63a21091f7d4bb7a0f/a4c70fde53c51d2658554bee586d486a.mp4",
+        "videoType": "2",
+        "videoPlayTime": "12' 54",
+        "videoIntroduction": "榻榻米是一只从小生活在地下车库里的流浪狗，因为车祸后腿残疾，尾巴也不再摇晃。它每天都在等待，等待食物，等待家人，等待被救助，等待被领养",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/ce862522f4f3bf4a2f89a8403201f05c.jpeg?imageMogr2/quality/60/format/jpg"
+    },
+    {
+        "id": 13,
+        "videoName": "毕业视频",
+        "videoImageUrl": "https://i1.ergengtech.com/cb/2019/06/24/5a7516cc5029750606e86b7fd481de29.png_vcover",
+        "videoUrl": "https://v1.ergengtech.com/transcode/c41235bb7b319e787584d9911c19e896/3f6d0d1f5cb86365d70f9e9aa9b5c2a7.mp4",
+        "videoType": "2",
+        "videoPlayTime": "05' 10",
+        "videoIntroduction": "又到了一年一度的毕业季，同样幼儿园也要毕业了，小莫老师真是舍不得班上的小朋友，我们一起朝夕相处了4年，他们从一群爱哭的宝宝成长为才艺十足的小帅哥和小美女",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/ce862522f4f3bf4a2f89a8403201f05c.jpeg?imageMogr2/quality/60/format/jpg"
+    },
+    {
+        "id": 14,
+        "videoName": "云中造梦师",
+        "videoImageUrl": "https://i1.ergengtech.com/cb/2019/06/13/c757755b453dec6a3d74f857d6f66568.png_vcover",
+        "videoUrl": "https://v1.ergengtech.com/transcode/1969f89f7eff8d008b475a7de4c73229/ddab8628e126674405afeb8fa4766515.mp4",
+        "videoType": "2",
+        "videoPlayTime": "02' 00",
+        "videoIntroduction": "海天中心是目前为止青岛最高的标志性建筑，高度369米，刷新青岛新高度。我们拍到了主楼的塔吊司机王维步，他说要成为最高境界的塔吊司机，必须有老虎胆，麻雀心，老鹰眼",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/ce862522f4f3bf4a2f89a8403201f05c.jpeg?imageMogr2/quality/60/format/jpg"
+    },
+    {
+        "id": 15,
+        "videoName": "轮椅上的汉马冠军",
+        "videoImageUrl": "https://i1.ergengtech.com/cb/2019/06/10/a8b1ac93b454a3e1f58441bdaceaaab2.jpg_vcover",
+        "videoUrl": "https://v1.ergengtech.com/transcode/d5d2d88c988986280e3ca617effdc5b0/a99afc6ebfdb1131be5198bab87aabaf.mp4",
+        "videoType": "2",
+        "videoPlayTime": "05' 55",
+        "videoIntroduction": "一场马拉松对于一个普通人而言是什么？ 一场赛事、42公里的坚持、卡路里的消耗……但对于王娟而言，一场马拉松是生活被命运的剪刀剪的七零八落后，自己亲手续上的一种最美的可能",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/ce862522f4f3bf4a2f89a8403201f05c.jpeg?imageMogr2/quality/60/format/jpg"
+    },
+    {
+        "id": 16,
+        "videoName": "微光·时代新人说",
+        "videoImageUrl": "https://i1.ergengtech.com/cb/2019/06/20/e640c397b819ba387d73b2a361dd34bb.png_vcover",
+        "videoUrl": "https://v1.ergengtech.com/transcode/0b7141e1e8f50a695332b9dc6ed6b9ae/f88443db6b6765b485f36e7c8fcda1c9.mp4",
+        "videoType": "2",
+        "videoPlayTime": "01' 10",
+        "videoIntroduction": "6月18日，由二更南京和南京艺术学院联合主办了“二更微光·时代新人说”视频分享会，分享了四部影片及两位新青年嘉宾的奋斗故事。这些青年用真实的生活告诉大家，什么是“发光”的人生。",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/ce862522f4f3bf4a2f89a8403201f05c.jpeg?imageMogr2/quality/60/format/jpg"
+    },
+    {
+        "id": 17,
+        "videoName": "茶馆里的成都",
+        "videoImageUrl": "https://i1.ergengtech.com/cb/2019/06/19/d9baa82c3f604a349703b6bc017634ef.jpg_vcover",
+        "videoUrl": "https://v1.ergengtech.com/transcode/85409d47b241f940173f2c72833c3b06/e88d886413ad1944106e69ee387a3784.mp4",
+        "videoType": "2",
+        "videoPlayTime": "06' 43",
+        "videoIntroduction": "茶馆实际上是一个窗口，虽然是个小的空间，但实际上反映了整个社会政治经济文化的变迁。哪怕通过茶馆的微观世界我们就可以看到这个大的世界的变化",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/ce862522f4f3bf4a2f89a8403201f05c.jpeg?imageMogr2/quality/60/format/jpg"
+    },
+    {
+        "id": 18,
+        "videoName": "给父亲的一封信",
+        "videoImageUrl": "https://i1.ergengtech.com/cb/2019/06/15/1109389a086c7a5392bcbfd31cde0621.jpg_vcover",
+        "videoUrl": "https://v1.ergengtech.com/transcode/1ed54f4f4a9ac5a26429387acc642866/b566cf70d2819f771d2b6a0a03e957a2.mp4",
+        "videoType": "2",
+        "videoPlayTime": "06' 46",
+        "videoIntroduction": "你还记得，上一次和父亲谈心是什么时候吗？比起母爱的无微不至，好像父亲总是沉默，甚至缺席。我们邀请了3位年轻人，他们想要把藏在心里的话，与父亲好好谈谈",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/ce862522f4f3bf4a2f89a8403201f05c.jpeg?imageMogr2/quality/60/format/jpg"
+    },
+    {
+        "id": 19,
+        "videoName": "给父亲的一封信",
+        "videoImageUrl": "https://i1.ergengtech.com/cb/2019/06/15/1109389a086c7a5392bcbfd31cde0621.jpg_vcover",
+        "videoUrl": "https://v1.ergengtech.com/transcode/1ed54f4f4a9ac5a26429387acc642866/b566cf70d2819f771d2b6a0a03e957a2.mp4",
+        "videoType": "2",
+        "videoPlayTime": "06' 46",
+        "videoIntroduction": "你还记得，上一次和父亲谈心是什么时候吗？比起母爱的无微不至，好像父亲总是沉默，甚至缺席。我们邀请了3位年轻人，他们想要把藏在心里的话，与父亲好好谈谈",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/ce862522f4f3bf4a2f89a8403201f05c.jpeg?imageMogr2/quality/60/format/jpg"
+    },
+    {
+        "id": 20,
+        "videoName": "我们都是追梦人",
+        "videoImageUrl": "https://i1.ergengtech.com/cb/2019/06/18/c876194a38824add37f96dba2ffb65fa.png_vcover",
+        "videoUrl": "https://v1.ergengtech.com/transcode/d0c4fc931732a3a84d56182c17669cf2/540bd7b6dd927df88ea52c4cf9185de7.mp4",
+        "videoType": "2",
+        "videoPlayTime": "02' 56",
+        "videoIntroduction": "为迎接新中国成立七十周年，庆祝五四运动一百周年，抚顺市望花区的青年团员们正用自己的方式向祖国告白，献礼祖国70年华诞！",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/ce862522f4f3bf4a2f89a8403201f05c.jpeg?imageMogr2/quality/60/format/jpg"
+    },
+    {
+        "id": 20,
+        "videoName": "我们都是警察",
+        "videoImageUrl": "https://i1.ergengtech.com/cb/2019/06/14/a9ccdf12f64f9253005fb45bf5b00c81.jpg_vcover",
+        "videoUrl": "https://v1.ergengtech.com/transcode/8e09c11d167a21d050ff8b29bb5fe814/cb92e9a7bfe6773e80cb9ab28863c424.mp4",
+        "videoType": "2",
+        "videoPlayTime": "05' 51",
+        "videoIntroduction": "朱羽洁和朱永宁的父亲都是警察，小时候记忆中的父亲总是很忙，没有时间陪他们，而当他们长大后，自己也成为了警察，才开始慢慢地理解父亲，父子（女）二人警心传承，在从警路上不忘初心，两代人共同守护南京的平安。",
+        "createDate": "2019-06-22 20:56:00",
+        "videoInfoBg": "http://img.kaiyanapp.com/ce862522f4f3bf4a2f89a8403201f05c.jpeg?imageMogr2/quality/60/format/jpg"
+    }]
+}
