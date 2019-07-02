@@ -30,12 +30,13 @@
 安装与运行
 ====
     
-  `git clone https://github.com/17746522310/video-geng.git <br><br>`
- ` cd video-geng <br><br>
+  git clone https://github.com/17746522310/video-geng.git <br><br>
+  cd video-geng <br><br>
   npm install //安装依赖 <br><br>
   npm run serve //服务端运行 访问 http://localhost:8090 <br><br>
-  npm run build  //项目打包`
+  npm run build  //项目打包
 
 项目地址
 ====
 http://api.joybike.com.cn/video-geng/
+（如果您使用电脑查看，请使用谷歌模拟移动端查看）
