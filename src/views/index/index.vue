@@ -20,7 +20,9 @@ export default {
 };
 </script>
 <style lang="less">
-.index-box{ width:100%;}
+.index-box{ width:100%;
+  color: #000;
+}
 // #nav {
 //   padding: 30px;
 //   a {
