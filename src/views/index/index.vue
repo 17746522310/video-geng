@@ -22,7 +22,7 @@ export default {
 <style lang="less">
 .index-box{ width:100%;
   color: #000;
-  color: #333;
+  color: #999;
 }
 // #nav {
 //   padding: 30px;
