@@ -23,6 +23,7 @@ export default {
 .index-box{ width:100%;
   color: #000;
   color: #999;
+  font-size: 14px;
 }
 // #nav {
 //   padding: 30px;
