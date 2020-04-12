@@ -24,6 +24,7 @@ export default {
   color: #000;
   color: #999;
   font-size: 14px;
+  font-style: normal;
 }
 // #nav {
 //   padding: 30px;
