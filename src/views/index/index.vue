@@ -2,7 +2,7 @@
   <div class="index-box">
     
     <!-- <HelloWorld msg="我是父组件home传的数据" /> -->
-    <indexlist></indexlist>
+    <!-- <indexlist></indexlist> -->
   </div>
 </template>
 

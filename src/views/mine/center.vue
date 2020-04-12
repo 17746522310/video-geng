@@ -39,6 +39,7 @@
             <div class="userinfo-word">confirm测试</div>
         </div> -->
     </ul>
+    <headnav></headnav>
     <d-confirm v-bind:confirmModalOptions="confirmOptions" ref="myConfirm"></d-confirm>
     <toast :toastOptions="toastOptions" ref="toast" ></toast>
 </div>
@@ -49,12 +50,14 @@ import axios from 'axios'
 import { constants } from 'fs';
 import  DConfirm from '../../components/confirm';
 import toast from '../../components/toast'
+import headnav from '@/views/headnav.vue'
 
 export default {
   name: "center",
   components:{
     DConfirm,
-    toast
+    toast,
+    headnav
   },
   data: function(){
       return {

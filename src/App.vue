@@ -1,9 +1,13 @@
 <template>
   <div id="app">
-    <router-view />
-    <div v-if="$route.meta.keepAlive">
-        <headnav></headnav> 
-    </div>
+      <keep-alive>
+        <router-view v-if="$route.meta.keepAlive"></router-view>
+      </keep-alive>
+      <router-view v-if="!$route.meta.keepAlive"></router-view>
+      
+      <!-- <div v-if="$route.meta.keepAlive">
+          <headnav></headnav> 
+      </div> -->
   </div>
 </template>
 <script>

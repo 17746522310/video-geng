@@ -10,6 +10,7 @@
     <title>video-geng</title>
     <style>
       *{padding:0; margin:0;}
+      #app{ display:none;}
     </style>
   </head>
   <body>
@@ -17,6 +18,43 @@
       <strong>We're sorry but vue-ergeng doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript> -->
     <div id="app"></div>
+    <div id="allmap"></div>
+    <div id="r-result">
+      城市名: <input id="cityName" value="北京" type="text" style="width:100px; margin-right:10px;" />
+      <input type="button" value="查询" onclick="theLocation()" />
+    </div>
     <!-- built files will be auto injected -->
+    <!-- <script src='http://api.map.baidu.com/api?v=3.0&ak=bplqyustvwauRCGpYjo2RKz23dG3ZLf7&callback=init'></script> -->
+    <script type="text/javascript" src="http://api.map.baidu.com/api?v=3.0&ak=bplqyustvwauRCGpYjo2RKz23dG3ZLf7"></script>
+    <script type="text/javascript">
+          // 百度地图API功能
+      // var map = new BMap.Map("allmap");
+      // var point = new BMap.Point(116.331398,39.897445);
+      // map.centerAndZoom(point,12);
+
+      // var geolocation = new BMap.Geolocation();
+      // geolocation.getCurrentPosition(function(r){
+      //   if(this.getStatus() == BMAP_STATUS_SUCCESS){
+      //     var mk = new BMap.Marker(r.point);
+      //     map.addOverlay(mk);
+      //     map.panTo(r.point);
+      //     alert('您的位置：'+r.point.lng+','+r.point.lat);
+      //   }
+      //   else {
+      //     alert('failed'+this.getStatus());
+      //   }        
+      // },{enableHighAccuracy: true})
+
+	var map = new BMap.Map("allmap");
+	var point = new BMap.Point(116.331398,39.897445);
+	map.centerAndZoom(point,11);
+
+	function theLocation(){
+		var city = document.getElementById("cityName").value;
+		if(city != ""){
+			map.centerAndZoom(city,11);      // 用城市名设置地图中心点
+		}
+	}
+  </script>
   </body>
 </html>

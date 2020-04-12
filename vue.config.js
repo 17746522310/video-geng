@@ -4,7 +4,7 @@ module.exports= {
     // 部署应用包时的基本 URL
     // 部署应用包时的基本 URL
     // 默认情况下，Vue CLI 会假设你的应用是被部署在一个域名的根路径上，例如 https://www.my-app.com/。如果应用被部署在一个子路径上，你就需要用这个选项指定这个子路径。例如，如果你的应用被部署在 https://www.my-app.com/my-app/，则设置 publicPath 为 /my-app/。
-
+    
     publicPath: process.env.NODE_ENV === 'production' ? '/video-geng/' : '/',
 
     // outputDir: 当运行 vue-cli-service build 时生成的生产环境构建文件的目录(type:string, default:'dist')。注意目标目录在构建之前会被清除 (构建时传入 --no-clean 可关闭该行为)。在npm run build时 生成文件的目录 type:string, default:'dist'
@@ -45,18 +45,19 @@ module.exports= {
     // 它支持webPack-dev-server的所有选项
 
     devServer: {
-        port: 8090, // 端口号
-        host: '192.168.2.233',
-        https: false, // https:{type:Boolean}
-        open: true, //配置自动启动浏览器
+        // port: 8090, // 端口号
+        // host: '192.168.2.233',
+        // https: false, // https:{type:Boolean}
+        // open: true, //配置自动启动浏览器
         // proxy: 'http://localhost:4000' // 配置跨域处理,只有一个代理
         proxy: {
             '/api': {
-                target: 'https://www.ruyutrip.com',
+              // target: 'http://192.168.2.203:80/res',
+                target: 'http://localhost:8080/',
                 ws: true,
                 changeOrigin: true,
                 pathRewrite: {
-                    '^/api': '/' 
+                    '^/api': '/mock'
                     //pathRewrite: {'^/api': '/'} 重写之后url为 http://192.168.1.16:8085/xxxx
                     //pathRewrite: {'^/api': '/api'} 重写之后url为 http://192.168.1.16:8085/api/xxxx
                     // https://www.ruyutrip.com/wp/visa/index

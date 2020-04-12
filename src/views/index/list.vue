@@ -1,6 +1,9 @@
 <template>
   <div class="index-page">
     <headtitle :title="headtitle" :search="search"></headtitle>
+    <!-- <keep-alive>
+      <component :is="scroll"></component>
+    </keep-alive> -->
     <scroll class="wrapper" ref="wrapper"
       :listenScroll="false"
       :pullup="true"
@@ -52,6 +55,7 @@
         <loading :isload="isload"></loading>
       </div>
     </scroll>
+    <headnav></headnav>
   </div>
 </template>
 
@@ -64,16 +68,18 @@ import headtitle from '../title.vue'
 import loading from '@/components/loading.vue'
 import loadmore from '@/components/loadmore.vue'
 import scroll from '@/components/scroll.vue'
+import headnav from '@/views/headnav.vue'
 
 import * as apiUrl from "@/common/apiUrl.js";
 // import http from "@/common/http.js";
 export default {
-  name: "indexlist",
+  name: "index",
   components:{
     headtitle,
     loading,
     loadmore,
-    scroll
+    scroll,
+    headnav
   },
   data: function(){
       return {
@@ -103,6 +109,24 @@ export default {
   created(){
     this.isload = true;
     this.scrollToEnd();
+  },
+  mounted(){
+    // var map = new BMap.Map("allmap");
+    // var point = new BMap.Point(116.331398,39.897445);
+    // map.centerAndZoom(point,12);
+
+    // var geolocation = new BMap.Geolocation();
+    // geolocation.getCurrentPosition(function(r){
+    //   if(this.getStatus() == BMAP_STATUS_SUCCESS){
+    //     var mk = new BMap.Marker(r.point);
+    //     map.addOverlay(mk);
+    //     map.panTo(r.point);
+    //     alert('您的位置：'+r.point.lng+','+r.point.lat);
+    //   }
+    //   else {
+    //     alert('failed'+this.getStatus());
+    //   }        
+    // });
   },
   methods:{
     scrollToEnd(){
@@ -211,6 +235,7 @@ export default {
           -webkit-box-orient: vertical;
           -webkit-line-clamp: 2; //需要控制的文本行数
           overflow: hidden;
+          height: 36px;
           // font-weight: 300;
           // word
         }

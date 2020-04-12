@@ -10,6 +10,11 @@
         <img class="icon_active nav-img" src="@/assets/icons/icon2_cur.png" alt="">
         <div class="nav-txt">测试</div>
       </div> -->
+      <div class="nav-item" :class="'graphic'==this.$store.state.navname ? 'on' : ''" @click.prevent="changelink('graphic')">
+        <img class="icon_private nav-img" src="@/assets/icons/icon2.png" alt="">
+        <img class="icon_active nav-img" src="@/assets/icons/icon2_cur.png" alt="">
+        <div class="nav-txt">图文</div>
+      </div>
       <div class="nav-item" :class="'center'==this.$store.state.navname ? 'on' : ''" @click.prevent="changelink('center')">
         <img class="icon_private nav-img" src="@/assets/icons/icon2.png" alt="">
         <img class="icon_active nav-img" src="@/assets/icons/icon2_cur.png" alt="">

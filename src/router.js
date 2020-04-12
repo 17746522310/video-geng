@@ -1,6 +1,6 @@
 import Vue from "vue";
 import Router from "vue-router";
-import index from "./views/index/index.vue";
+import index from "./views/index/list.vue";
 import login from "./views/mine/login.vue";
 import outlogin from "./views/mine/outlogin.vue";
 import search from './views/index/search.vue'
@@ -9,6 +9,7 @@ import comment from './views/index/comment'
 import usescroll from './views/index/usescroll'
 // import indexdetail from "./views/index/detail.vue";
 // import center from './views/mine/center.vue'
+import nuxt from './views/graphic/test.vue'
 
 Vue.use(Router);
 
@@ -43,9 +44,17 @@ export default new Router({
       component: () =>
         import(/* webpackChunkName: "about" */ "./views/mine/center.vue"),
       meta:{
-        keepAlive: true
+        keepAlive: false
       }
     }, 
+    {
+      path: "/graphicList",
+      name: "graphicList",
+      component:()=>import("./views/graphic/graphic-list.vue"),
+      meta:{
+        keepAlive: true
+      }
+    },
     // {
     //   path: "/test",
     //   name: "test",
@@ -103,6 +112,14 @@ export default new Router({
         isLogin: false
       }
     },
+    {
+      path: "/nuxt",
+     
+      component: nuxt,
+      meta:{
+        isLogin: false
+      }
+    }
     // {
     //   path: '*', component: NotFoundComponent
     // }
